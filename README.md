@@ -1,3 +1,6 @@
+This project was inspired by: https://www.youtube.com/watch?v=-C6lhl69ayc
+Data used for the project is available at: https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
+
 # OnlineSalesDataset
 Online Sales Dataset - Popular Marketplace Data
 
